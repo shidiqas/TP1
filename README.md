@@ -17,7 +17,7 @@ Kelas ini merepresentasikan karakter sampingan dalam game dan merupakan kelas in
 Kelas ini merepresentasikan musuh dalam game dan merupakan kelas turunan dari kelas NPC. Setiap musuh memiliki HP, ATK, senjata, dan daftar hadiah.
 
 ## Alur Program
-Program dimulai dengan inisialisasi karakter, NPC, senjata, dan quest. Kemudian, karakter mengambil quest dari NPC menyelesaikannya, membeli barang dari NPC. Lalu inisialisasi musuh dan karakter bertarung dengan musuh. Pertempuran berlangsung sampai salah satu pihak kalah. Setelah pertempuran selesai, karakter mendapatkan hadiah dari musuh.
+Program dimulai dengan inisialisasi senjata, karakter, NPC, barang jualan NPC dan quest. Kemudian, karakter mengambil quest dari NPC menyelesaikannya, selanjutnya membeli barang dari NPC. Lalu inisialisasi musuh dan karakter bertarung dengan musuh. Pertempuran berlangsung sampai salah satu pihak kalah. Setelah pertempuran selesai, karakter mendapatkan hadiah dari musuh.
 ![Screenshot (1223)](https://github.com/shidiqas/TP1/assets/118581965/3545cf96-acc4-4084-abeb-6233babb7055)
 ![Screenshot (1224)](https://github.com/shidiqas/TP1/assets/118581965/8a006a71-b37e-48ff-9834-90586e38ae52)
 ![Screenshot (1225)](https://github.com/shidiqas/TP1/assets/118581965/520c51e2-1842-499d-98c1-91e0e7758130)
